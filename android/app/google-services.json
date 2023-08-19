@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "677119679792",
+    "project_id": "deaddiction-49137",
+    "storage_bucket": "deaddiction-49137.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677119679792:android:ce040d8239727c7b957cf5",
+        "android_client_info": {
+          "package_name": "com.example.login_page"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677119679792-bpb8ojm2n87nislmvoc9cbmsje62j50e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCofHc7lRQrxx_KkdizTGAcpFa89Cx2_04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677119679792-bpb8ojm2n87nislmvoc9cbmsje62j50e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
