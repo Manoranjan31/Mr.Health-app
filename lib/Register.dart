@@ -5,19 +5,17 @@ import 'package:login_page/Register2.dart';
 
 String uname = "";
 
-class register extends StatefulWidget {
-  const register({super.key});
+class Register extends StatefulWidget {
+  const Register({super.key});
 
   @override
-  State<register> createState() => _registerState();
+  State<Register> createState() => _RegisterState();
 }
 
-class _registerState extends State<register> {
+class _RegisterState extends State<Register> {
   final TextEditingController _usernameController = TextEditingController();
 
   final TextEditingController _passwordController = TextEditingController();
-
-  final TextEditingController _username = TextEditingController();
 
   @override
   Widget build(BuildContext context) {

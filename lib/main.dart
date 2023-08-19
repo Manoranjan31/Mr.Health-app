@@ -202,7 +202,7 @@ class LoginpageState extends State<Loginpage> {
                             Navigator.push(
                                 context,
                                 MaterialPageRoute(
-                                    builder: (context) => const register()));
+                                    builder: (context) => const Register()));
                           },
                         ),
                       ),
