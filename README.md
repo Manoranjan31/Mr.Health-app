@@ -1,6 +1,6 @@
-# login_page
+# Mr.Health App
 
-A new Flutter project.
+A deaddiction app for Alcoholics and Smokers
 
 ## Getting Started
 
